@@ -1,6 +1,7 @@
 name = "Oluchi Grace"
 country  = "Nigeria"
-specialization = "Stoftware Development"
+specialization = "Software Development"
+
 years_of_experience = 0
 
 print(f"Development Name: {name}")
